@@ -1,3 +1,3 @@
 # neuralnetworks
 
-Training a neural network on a dataset of dogs
+Training a neural network on a dataset of animals
